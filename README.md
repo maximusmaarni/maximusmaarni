@@ -14,5 +14,3 @@ Welcome to my GitHub profile! I'm a passionate **IT Specialist** and **programmi
 - HTML, PHP  
 - **Git** for version control  
 - **VS Code**, **GitHub**
-
-Feel free to browse through my repositories! 👨‍💻
