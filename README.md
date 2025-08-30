@@ -1,9 +1,6 @@
 # Hi there, I'm Max! 👋
 
-Welcome to my GitHub profile! I'm a passionate **IT Specialist** and **programming enthusiast** with a strong focus on problem-solving and software development. With experience in a wide range of technologies, I specialize in:
-
-- **C Programming Languages** (C, C++, C#)
-- **Web Development** (HTML, PHP)
+Welcome to my GitHub profile! I'm a passionate **IT Specialist** and **programming enthusiast** with a strong focus on problem-solving and software development. With experience in a wide range of technologies.
 
 ## What I Do:
 
