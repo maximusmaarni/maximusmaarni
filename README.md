@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate **IT Specialist** and **programmi
 - Experiment with **scripting** and **automation** to improve processes and solve problems.
 
 ## Technologies & Tools I Love:
-
-- C/C++/C#  
-- HTML, PHP  
-- **Git** for version control  
-- **VS Code**, **GitHub**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
