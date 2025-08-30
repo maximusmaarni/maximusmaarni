@@ -1,4 +1,4 @@
-# Hi there, I'm Max! 👋
+# Hi there, I'm Maximus! 👋
 
 Welcome to my GitHub profile! I'm a passionate **IT Specialist** and **programming enthusiast** with a strong focus on problem-solving and software development. With experience in a wide range of technologies.
 
