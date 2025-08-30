@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Max! 👋
 
-<!--
-**maximusmaarni/maximusmaarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **IT Specialist** and **programming enthusiast** with a strong focus on problem-solving and software development. With experience in a wide range of technologies, I specialize in:
 
-Here are some ideas to get you started:
+- **C Programming Languages** (C, C++, C#)
+- **Web Development** (HTML, PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do:
+
+- Explore **system programming**, **reverse-engineering apps**, and **web development** as a hobby.
+- Tackle technical challenges and work on various **coding projects** in my free time.
+- Experiment with **scripting** and **automation** to improve processes and solve problems.
+
+## Technologies & Tools I Love:
+
+- C/C++/C#  
+- HTML, PHP  
+- **Git** for version control  
+- **VS Code**, **GitHub**
+
+Feel free to browse through my repositories! 👨‍💻
